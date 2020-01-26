@@ -12,8 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("this master branch")
-        print("this is new branch")
+        print("=== new")
     }
 
 
